@@ -21,7 +21,6 @@ It has only been tested with Chrome and Firefox and Symphony CMS 2.0.8RC3
 ## Known limitations
 
 - Currently only works in the backend
-- The "container"-component doesn't quite work
 
 ## License:
 

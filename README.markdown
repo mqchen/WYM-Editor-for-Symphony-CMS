@@ -22,7 +22,7 @@ It has only been tested with Chrome and Firefox and Symphony CMS 2.0.8RC3
 - Currently only works in the backend
 - The "container"-component doesn't quite work
 
-## License: List item[GPL v3][2]List item
+## License: [GPL v3][2]
 
   [1]: http://wymeditor.org/
   [2]: http://ttp://www.gnu.org/licenses/gpl.html

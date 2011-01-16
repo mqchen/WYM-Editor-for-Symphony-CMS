@@ -12,9 +12,10 @@ It has only been tested with Chrome and Firefox and Symphony CMS 2.0.8RC3
 
 ## How to install
 
-- Upload archive to your extensions folder and uncompress
-- Go to Symphony -> Extensions and enable "WYM Editor"
-- Navigate to any section: Blueprints -> Sections
+- Upload archive to your extensions folder and uncompress.
+- The `wmdeditor` folder should be immediately within the `extensions` folder.
+- Go to Symphony → Extensions and enable "WYM Editor".
+- Navigate to any section: Blueprints → Sections
 - Add a field of type textarea and select WYM Editor as the text formatter
 
 ## Known limitations
@@ -22,7 +23,9 @@ It has only been tested with Chrome and Firefox and Symphony CMS 2.0.8RC3
 - Currently only works in the backend
 - The "container"-component doesn't quite work
 
-## License: [GPL v3][2]
+## License:
+
+[GPL v3][2]
 
   [1]: http://wymeditor.org/
   [2]: http://ttp://www.gnu.org/licenses/gpl.html

@@ -1,3 +1,7 @@
+## Note
+
+If anyone wants to take over maintenance of this extension, please get in touch!
+
 ## WYM Editor for Symphony CMS
 
 This extension brings the WYM Editor to Symphony CMS as an extension
